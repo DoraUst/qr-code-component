@@ -1,3 +1,3 @@
 Newbie challenge from frontend mentor https://www.frontendmentor.io/home. ♡
 
-<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/e6e409b1-066a-4c3f-8206-0a5485987995" />
+<img width="1181" height="775" alt="image" src="https://github.com/user-attachments/assets/79649921-a89d-481f-943a-33c031dfbdf7" />
